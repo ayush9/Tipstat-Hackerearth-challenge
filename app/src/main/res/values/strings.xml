@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tipstat</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">Tipstat</string>
+    <string name="title_activity_favourite">Tipstat</string>
+    <string name="custom_text_painting_title">Welcome to Tipstat</string>
+    <string name="custom_text_painting_text">Long press on any row of ListView to sort by Height and Weight</string>
+    <string name="title_single_shot">Single shot</string>
+    <string name="R.string.desc_single_shot">Press the OK button and you\'ll only ever see this ShowcaseView once. To see it again, clear the app\'s cache.</string>
+</resources>
